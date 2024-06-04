@@ -1,0 +1,75 @@
+[
+    {
+        "taskName": "Diaria 1",
+        "taskDescription": "Diaria ",
+        "isFlexible": false,
+        "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "lastExecutionDate": "2024-06-05T01:00:28.705727Z"
+    },
+    {
+        "taskName": "Diaria 2",
+        "taskDescription": "Diaria ",
+        "isFlexible": false,
+        "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "lastExecutionDate": "2024-06-05T01:00:28.705727Z"
+    },
+    {
+        "taskName": "Diaria 3",
+        "taskDescription": "Diaria ",
+        "isFlexible": false,
+        "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+        ],
+        "lastExecutionDate": "2024-06-05T01:00:28.705727Z"
+    },
+    {
+        "taskName": "Flexible cada 2-1",
+        "taskDescription": "Flexible cada ",
+        "isFlexible": true,
+        "intervalDays": "2",
+        "days": [],
+        "lastExecutionDate": "2024-06-11T22:44:38.268000Z"
+    },
+    {
+        "taskName": "Flexible cada 2-2",
+        "taskDescription": "",
+        "isFlexible": true,
+        "intervalDays": "2",
+        "days": [],
+        "lastExecutionDate": "2024-06-11T22:44:46.084000Z"
+    },
+    {
+        "taskName": "Flexible cada 2-3",
+        "taskDescription": "",
+        "isFlexible": true,
+        "intervalDays": "2",
+        "days": [],
+        "lastExecutionDate": "2024-06-11T22:44:58.716000Z"
+    },
+    {
+        "taskName": "Flexible cada 4-1",
+        "taskDescription": "",
+        "isFlexible": true,
+        "intervalDays": "4",
+        "days": [],
+        "lastExecutionDate": "2024-06-11T22:45:18.805000Z"
+    },
+    {
+        "taskName": "Flexible cada 4-2",
+        "taskDescription": "",
+        "isFlexible": true,
+        "intervalDays": "4",
+        "days": [],
+        "lastExecutionDate": "2024-06-11T22:45:26.613000Z"
+    }
+]
